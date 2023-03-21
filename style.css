@@ -3,15 +3,15 @@ html {
   }
   
   html {
-    background-color: #00539F;
+    background-color: #CEF279;
   }
   
   body {
     width: 600px;
     margin: 20px auto;
-    background-color: #FF9500;
+    background-color: #FFD8D8;
     padding: 0 20px 20px 20px;
-    border: 5px dashed black;
+    border: 5px dashed #FFF;
   }
   
   h1 {
@@ -19,8 +19,8 @@ html {
     text-align: center;
     margin: 0;
     padding: 20px 0;
-    color: #00539F;
-    text-shadow: 3px 3px 1px black;
+    color: #FFA7A7;
+    text-shadow: 3px 3px 1px #FFF;
   }
   
   p, li {
@@ -53,9 +53,9 @@ html {
   img {
     display: block;
     margin: 0 auto;
-    box-shadow: 7px 7px 1px black;
+    box-shadow: 7px 7px 1px #FFF;
   }
   
   a:hover {
-    color: #c00;
+    color: #FFF;
   }
